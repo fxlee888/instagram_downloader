@@ -1,0 +1,4 @@
+# Instagram Scraper Dependencies
+instaloader>=4.10
+requests>=2.31.0
+playwright>=1.40.0
