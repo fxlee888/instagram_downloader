@@ -35,6 +35,9 @@ playwright install firefox
 
 ### Méthode 1: Playwright (RECOMMANDÉ)
 
+Activer venv: 
+venv\Scripts\Activate
+
 Utilise un vrai navigateur Firefox pour éviter les limitations de l'API Instagram.
 
 ```powershell
